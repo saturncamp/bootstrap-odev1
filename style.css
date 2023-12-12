@@ -1,0 +1,16 @@
+body{
+    background-color:  #E9ECEF;
+}
+.card-body{
+    background-color: white;
+
+}
+img{
+    height: 400px;
+}
+.card-body{
+    height: 150px;
+}
+h5{
+    color: rgb(156, 76, 231);
+}
